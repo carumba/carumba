@@ -1,4 +1,15 @@
+
+# Canonical URI
+Canonical: https://www.carumba.com/.well-known/security.txt
+
+# Our security address
 Contact: https://github.com/carumba/carumba/security/advisories/new
+
+# Our security policy
+Policy: https://github.com/carumba/carumba/blob/main/SECURITY.md
+
+# Our security acknowledgments page
+Acknowledgments: https://www.carumba.com/.well-known/security-hall-of-fame.txt
+
 Expires: 2038-01-01T08:00:00.000Z
 Preferred-Languages: en
-Policy: https://github.com/carumba/carumba/blob/main/SECURITY.md
