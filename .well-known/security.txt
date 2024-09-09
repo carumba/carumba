@@ -1,0 +1,4 @@
+Contact: https://github.com/carumba/carumba/security/advisories/new
+Expires: 2038-01-01T08:00:00.000Z
+Preferred-Languages: en
+Policy: https://github.com/carumba/carumba/blob/main/SECURITY.md
